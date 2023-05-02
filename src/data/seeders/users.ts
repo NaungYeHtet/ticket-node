@@ -21,7 +21,6 @@ async function seed(): Promise<void> {
             name: 'Staff'
           })) as unknown as RoleDocument
 
-          console.log('STAFF ROLE >>>>>>>>>> ', staffRole)
           await UserModel.create({ ...user, roleId: staffRole._id })
         } catch (error) {
           console.error(error)
@@ -37,7 +36,6 @@ async function seed(): Promise<void> {
             name: 'Leader'
           })) as unknown as RoleDocument
 
-          console.log('Leader ROLE >>>>>>>>>> ', leaderRole)
           await UserModel.create({ ...user, roleId: leaderRole._id })
         } catch (error) {
           console.error(error)
@@ -53,7 +51,6 @@ async function seed(): Promise<void> {
             name: 'Supervisor'
           })) as unknown as RoleDocument
 
-          console.log('Supervisor ROLE >>>>>>>>>> ', supervisorRole)
           await UserModel.create({ ...user, roleId: supervisorRole._id })
         } catch (error) {
           console.error(error)

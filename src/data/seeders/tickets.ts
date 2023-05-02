@@ -13,7 +13,6 @@ async function seed(): Promise<void> {
       if (err != null) throw err
       ticketData = await JSON.parse(data).ticketData
       // use the ticketData object here
-      console.log(ticketData) // This will log the contents of the ticketData array
       // eslint-disable-next-line @typescript-eslint/no-misused-promises
       ticketData.forEach(async (ticket) => {
         try {
