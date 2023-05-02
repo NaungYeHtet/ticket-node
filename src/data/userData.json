@@ -1,0 +1,23 @@
+{
+  "staffData": [
+    {
+      "name": "Naung Ye",
+      "email": "naungyehtet717@gmail.com",
+      "password": "$2a$12$sqsX1eG.Za0vl5/vBBJ/8uZJS38t.EhhXA4RkH7LfRF03BeD2J7mS"
+    }
+  ],
+  "leaderData": [
+    {
+      "name": "M Leader",
+      "email": "leader717@gmail.com",
+      "password": "$2a$12$sqsX1eG.Za0vl5/vBBJ/8uZJS38t.EhhXA4RkH7LfRF03BeD2J7mS"
+    }
+  ],
+  "supervisorData": [
+    {
+      "name": "M Supervisor",
+      "email": "supervisor717@gmail.com",
+      "password": "$2a$12$sqsX1eG.Za0vl5/vBBJ/8uZJS38t.EhhXA4RkH7LfRF03BeD2J7mS"
+    }
+  ]
+}

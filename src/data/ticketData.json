@@ -1,0 +1,60 @@
+{
+  "ticketData": [
+    {
+      "avatar": "https://randomuser.me/api/portraits/women/1.png",
+      "title": "Service is broken",
+      "description": "I cannot click forgot password button.",
+      "createdBy": "dfasdffasdfasdf",
+      "status": "Reviewing"
+    },
+    {
+      "avatar": "https://randomuser.me/api/portraits/men/2.png",
+      "title": "Website loading slow",
+      "description": "The website is taking too long to load pages.",
+      "createdBy": "dfasdffasdfasdf",
+      "status": "Reviewing"
+    },
+    {
+      "avatar": "https://randomuser.me/api/portraits/men/3.png",
+      "title": "Unable to checkout",
+      "description": "I am unable to complete my checkout process.",
+      "createdBy": "dfasdffasdfasdf",
+      "status": "Reviewing"
+    },
+    {
+      "avatar": "https://randomuser.me/api/portraits/women/4.png",
+      "title": "Feature request: Dark mode",
+      "description": "Please add a dark mode option to the website.",
+      "createdBy": "dfasdffasdfasdf",
+      "status": "Reviewing"
+    },
+    {
+      "avatar": "https://randomuser.me/api/portraits/women/6.png",
+      "title": "Cannot upload profile picture",
+      "description": "I am unable to upload my profile picture on my account.",
+      "createdBy": "dfasdffasdfasdf",
+      "status": "Reviewing"
+    },
+    {
+      "avatar": "https://randomuser.me/api/portraits/women/7.png",
+      "title": "Broken link",
+      "description": "A link on the website is broken and not working.",
+      "createdBy": "dfasdffasdfasdf",
+      "status": "Pending"
+    },
+    {
+      "avatar": "https://randomuser.me/api/portraits/women/8.png",
+      "title": "Incorrect product description",
+      "description": "The product description on the website is incorrect.",
+      "createdBy": "dfasdffasdfasdf",
+      "status": "Reviewing"
+    },
+    {
+      "avatar": "https://randomuser.me/api/portraits/women/9.png",
+      "title": "Incorrect order confirmation email",
+      "description": "The order confirmation email I received has incorrect information.",
+      "createdBy": "dfasdffasdfasdf",
+      "status": "Reviewing"
+    }
+  ]
+}
